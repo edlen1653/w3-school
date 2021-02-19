@@ -25,6 +25,8 @@ echo $myCar -> message();
 echo "<br>";
 $myCar = new Car("green", "Edsel", "classic");
 echo $myCar -> message();
+$myCar = new Car("purple", "Kinardly", "junk");
+echo $myCar -> message();
 ?>
 
 </body>
