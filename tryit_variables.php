@@ -16,7 +16,7 @@ echo "<br>";
 
 $result = $x*$y;
 
-echo "The answer to $x times $y is $result";
+echo "The answer to $x times $y is $result</br>";
 
 ?>
 
