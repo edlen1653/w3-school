@@ -6,7 +6,8 @@
 $months = array(
     "Jan"=>"1",
     "Feb"=>"2",
-    "Mar"=>"3");
+    "Mar"=>"3",
+    "Apr"=>"4");
 
 foreach ($months as $month => $monthN) {
     echo "$month is month number $monthN</br>";
